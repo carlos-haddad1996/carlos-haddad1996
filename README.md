@@ -12,15 +12,16 @@
 </a>
 
 <br />
+<br />
 
 My name is Carlos Haddad, a Full-Stack Web Developer 🔥🚀 From Honduras 🇭🇳. Currently I'm a Web Developer working at [PartnerHero](https://www.partnerhero.com). 
 I like to hear to any type of music 🎵, play the guitar a bit 🎸 and of course play some games 🎮.
 
 **Want to know more about me?**
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Cahl1996](https://twitter.com/Cahl1996);
-- 📝[Resume](https://drive.google.com/file/d/135zV2Cr2DzWPcyhq5Zrse_NMUgNW9dRb/view?usp=sharing);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@Cahl1996](https://twitter.com/Cahl1996)
+- 📝[Resume](https://drive.google.com/file/d/135zV2Cr2DzWPcyhq5Zrse_NMUgNW9dRb/view?usp=sharing)
 
 
 **Languages and Tools:**  
