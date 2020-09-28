@@ -1,3 +1,5 @@
+<img src="https://github.com/carlos-haddad1996/carlos-haddad1996/blob/master/miles-morales-spiderman-into-the-spider-verse-y5243.jpg?raw=true" width="100%" height="500" />
+
 ### Hi People <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
@@ -16,6 +18,8 @@
 
 My name is Carlos Haddad, a Full-Stack Web Developer 🔥🚀 From Honduras 🇭🇳. Currently I'm a Web Developer working at [PartnerHero](https://www.partnerhero.com). 
 I like to hear to any type of music 🎵, play the guitar a bit 🎸 and of course play some games 🎮.
+
+<img align="right" alt="GIF" src="https://github.com/carlos-haddad1996/carlos-haddad1996/blob/master/developer-dribbble.gif?raw=true" width="500" height="320" />
 
 **Want to know more about me?**
 
